@@ -16,7 +16,7 @@ class Sign:
 
 	def setmessage(self, text, slot=1, effect='hold', speed=1):
 		# validate message
-		if not speed in xrange(1, 6) or not slot in xrange(1, 9):
+		if not speed in xrange(1, 6) or not slot in xrange(1, 9) or not effect in effects:
 			return
 
 		# write null char packet
