@@ -1,7 +1,7 @@
 MiniLED
 =======
 
-A python API to display text/images to small LED badges and signs.  Created with the [LED Mini Desk Sign](http://www.brightledsigns.com/products/4_x16_LED_Mini_Desk_Sign-12972-0.html) in mind.
+A python API to display text/images to small LED badges and signs.  Created with [this sign](http://www.brightledsigns.com/products/4_x16_LED_Mini_Desk_Sign-12972-0.html) in mind.
 
 Installation
 ------------
